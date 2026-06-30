@@ -7,4 +7,4 @@ I'm a second-year Computer Engineering student at Akdeniz University. I am passi
 * **Databases:** SQL, Database Management Systems
 * **Tools & Technologies:** Git, GitHub
 
-📬 Feel free to reach out to me via omerfarukddurmaz@gmail.com or connect with me on [linkedin.com/in/omerdrmz] .
+📬 Feel free to reach out to me via omerfarukddurmaz@gmail.com or connect with me on linkedin.com/in/omerdrmz.
