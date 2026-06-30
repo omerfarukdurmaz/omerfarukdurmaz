@@ -3,7 +3,7 @@
 I'm a second-year Computer Engineering student at Akdeniz University. I am passionate about software development, database management systems, and mobile application development, focusing on continuously improving my skills and learning new technologies.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Java, Python, Kotlin, Assembly
+* **Languages:** Java, Python, Assembly
 * **Databases:** SQL, Database Management Systems
 * **Tools & Technologies:** Git, GitHub
 
